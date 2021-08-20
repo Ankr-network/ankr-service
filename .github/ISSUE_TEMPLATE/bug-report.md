@@ -25,5 +25,3 @@ Please Note:  Never disclose your full API Endpoint address
 - OS (e.g: `cat /etc/os-release`):
 - Kernel (e.g. `uname -a`):
 - what tool (cur/go client/web3.js/...):
-- Request Body:
-- Response Body:
