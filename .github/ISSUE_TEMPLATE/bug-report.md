@@ -22,6 +22,8 @@ Please Note:  Never disclose your full API Endpoint address
 #### Environment:
 - API Cluster(HongKong/SanJose):
 - API ID:
+- API Type:
+- Network Type:
 - OS (e.g: `cat /etc/os-release`):
 - Kernel (e.g. `uname -a`):
 - what tool (cur/go client/web3.js/...):
