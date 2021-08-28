@@ -26,4 +26,6 @@ Please Note:  Never disclose your full API Endpoint address
 - Network Type:
 - OS (e.g: `cat /etc/os-release`):
 - Kernel (e.g. `uname -a`):
-- what tool (cur/go client/web3.js/...):
+- what tool (cur/go client/web3.js/...) and tool version:
+- what request:
+- what response and http code (if exist):
